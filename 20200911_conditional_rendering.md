@@ -1,4 +1,4 @@
-## --------- Conditional rendering ------------
+## --------- Vuejs directives ------------
 #### 1) Sự khá nhau giữa v-if và v-show
 - v-if: 
 
